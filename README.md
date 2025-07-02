@@ -13,7 +13,7 @@ The content is written in **Julia** and presented as a series of Jupyter Noteboo
 ## Requirements
 
 To run the notebooks, you’ll need:
-- Julia (>= 1.9)
+- Julia (>= 1.11.3)
 - Jupyter (via `IJulia.jl`)
 - Additional Julia packages listed in each notebook
 
